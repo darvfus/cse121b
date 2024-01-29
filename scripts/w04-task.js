@@ -7,7 +7,7 @@ let profile = {
     favoriteFoods: ["Tacos", "Tamales", "Picaditas"],
     hobbies: ["Learn Nwe things", "Play Guitar", "eat new food", "meet new people"],
     placesLived: [{
-            place: "Leon",
+            place: "Monterry, MExico",
             timeLived: 4
         },
         {
