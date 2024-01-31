@@ -3,7 +3,7 @@
 /* Profile Object  */
 let profile = {
     name: "Daniel Romero",
-    photo: "images/Daniel.png",
+    photo: "images/daniel.png",
     favoriteFoods: ["Tacos", "Tamales", "Picaditas"],
     hobbies: ["Learn Nwe things", "Play Guitar", "eat new food", "meet new people"],
     placesLived: [{
